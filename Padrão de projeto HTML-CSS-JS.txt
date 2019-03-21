@@ -1,0 +1,20 @@
+Padrões para serem seguidos.
+
+CLASS E ID'S
+    *Subdivisões
+    - Index
+    - Page | Category
+    - Single
+
+HTML
+
+    * Estrutura Básica
+        - Ver exemplo em index.html;
+    
+
+SASS/CSS
+
+    Será dividido de acordo com a seção, seguindo os Padrões de CLASS e ID's;
+
+
+    
